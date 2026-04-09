@@ -7,7 +7,7 @@ Welcome to my repository of custom skills designed for working with **Better Upl
 This repository uses [skills.sh](https://skills.sh). To install these skills, run the following command in your terminal:
 
 ```bash
-npx skills add https://github.com/juanbarmo05/better-upload-skills
+npx skills add https://github.com/IvanTsxx/better-upload-skills
 ```
 
 ## Available Skills
