@@ -7,7 +7,7 @@ Bienvenido a mi repositorio de skills personalizados diseñados para trabajar co
 Este repositorio usa [skills.sh](https://skills.sh). Para instalar estos skills, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-npx skills add https://github.com/juanbarmo05/better-upload-skills
+npx skills add https://github.com/IvanTsxx/better-upload-skills
 ```
 
 ## Skills Disponibles
